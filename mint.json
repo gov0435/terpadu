@@ -91,19 +91,5 @@
         "github": "https://github.com/mintlify",
         "linkedin": "https://linkedin.com/company/mintlify"
       }
-    },
-    "fonts": {
-          "heading": {
-              "family": "Raleway",
-              "weight": 700,
-              "source": "https://cdn.jsdelivr.net/fontsource/fonts/raleway:vf@latest/latin-wght-normal.woff2",
-              "format": "woff2"
-          },
-          "body": {
-              "family": "Inter",
-              "weight": 400,
-              "source": "https://cdn.jsdelivr.net/fontsource/fonts/inter@latest/latin-400-normal.woff2",
-              "format": "woff2"
-          }
-      }
+    }
   }

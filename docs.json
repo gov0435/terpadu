@@ -38,8 +38,19 @@
               "layanan/alur",
               "layanan/standar-pelayanan"
             ]
+          },
+          {
+            "group": "Pengaduan",
+            "pages": [
+              "layanan/pengaduan"
+            ]
           }
         ]
+      },
+      {
+        "tab": "Pengaduan",
+        "href": "https://ult.bgpgto.id/layanan/pengaduan"
+        
       },
       {
         "tab": "Survei",

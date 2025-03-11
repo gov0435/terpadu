@@ -14,7 +14,7 @@
     "light": "#007BFF",
     "dark": "#66B2FF"
   },
-  "favicon": "/favicon.svg",
+  "favicon": "/favicon.png",
   "navigation": {
     "tabs": [
       {
@@ -24,24 +24,6 @@
             "group": "Halaman Utama",
             "pages": [
               "beranda"
-            ]
-          },
-          {
-            "group": "Standar Pelayanan",
-            "pages": [
-              "quickstart",
-              "development"
-            ]
-          },
-          {
-            "group": "Essentials",
-            "pages": [
-              "essentials/markdown",
-              "essentials/code",
-              "essentials/images",
-              "essentials/settings",
-              "essentials/navigation",
-              "essentials/reusable-snippets"
             ]
           }
         ]

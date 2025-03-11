@@ -35,7 +35,8 @@
             "group": "Layanan",
             "pages": [
               "layanan/bentuk-layanan",
-              "layanan/alur"
+              "layanan/alur",
+              "layanan/standar-pelayanan"
             ]
           }
         ]

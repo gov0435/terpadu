@@ -11,8 +11,8 @@
   },
   "colors": {
     "primary": "#0048BA",
-    "light": "#007BFF",
-    "dark": "#66B2FF"
+    "light": "#4a72f7",
+    "dark": "#0d1326"
   },
   "favicon": "/favicon.png",
   "navigation": {
